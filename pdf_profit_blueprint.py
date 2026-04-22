@@ -5,7 +5,7 @@ import webbrowser
 # ==================== REAL PAYMENT LINKS (CHANGE THESE) ====================
 # ←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←
 RAZORPAY_INR_LINK = "https://rzp.io/your-real-razorpay-link-here"      # ← Your real Razorpay link (₹499)
-PAYPAL_USD_LINK   = "https://www.paypal.com/ncp/payment/your-real-paypal-link-here"  # ← Your real PayPal link ($29)
+PAYPAL_USD_LINK   = "https://www.paypal.com/ncp/payment/L3W3N4EWQTANW"  # ← Your real PayPal link ($29)
 # ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
 
 RAZORPAY_PRICE_INR = 499   # ₹499 (India)
